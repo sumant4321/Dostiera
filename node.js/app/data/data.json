@@ -1,0 +1,61 @@
+{
+  "friends": [{
+    "title" : "ME",
+    "name": "Sumant Kumar",
+    "shortname" : "Sumant",
+    "summary": "INTRO",
+    "description": "<p>Sumant was born in Patna</p>"
+   
+    },{
+    "title" : "Best Friend ",
+    "name": "Suraj kumar",
+    "shortname" : "Suraj",
+    "summary": "INTRO",
+    "description": "<p>Suraj was born in Patna</p>"
+  },{ 
+    "title" : "Best Friend",
+    "name": "Harsh Srivastav",
+    "shortname" : "Harsh",
+    "summary": "INTRO",
+    "description": "<p>Harsh was born in Patna</p>"
+    
+    
+  },{
+    "title" : "Best Friend",
+    "name": "Pushkar Prabhat",
+    "shortname" : "Pushkar",
+    "summary" : "INTRO",
+    "description": "<p>pushkar was born in Hajipur </p>"
+    
+  },{
+    "title" : "Best Friend",
+    "name": "Ankit Yadav",
+    "shortname" : "Ankit",
+    "summary": "INTRO",
+    "description": "<p>Ankit was born in Siwan</p>"
+  },{
+    "title" : "Best Friend",
+    "name": "Ayan Dey",
+    "shortname" : "Ayan",
+    "summary": "INTRO",
+    "description": "<p>Ayan was born in Kolkata</p>"
+  },{
+    "title" : "Best Friend",
+    "name": "Adrish Aditya",
+    "shortname" : "Adrish",
+    "summary": "INTRO",
+    "description": "<p>Adrish was born in Kolkata</p>"
+  },{
+    "title" : "Best Friend",
+    "name": "Tushar Gourav",
+    "shortname" : "Tushar",
+    "summary": "INTRO",
+    "description": "<p>Tushar was born in Jamshedpur</p>"
+  },{
+    "title" : "Best Friend",
+    "name": "Ashish Singh",
+    "shortname" : "Ashish",
+    "summary": "INTRO",
+    "description": "<p>Ashish was born in Balia</p>"
+  }]
+}
